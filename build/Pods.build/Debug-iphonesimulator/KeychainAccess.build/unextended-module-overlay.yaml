@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/shubham/Documents/untitled folder 2/Birds/build/Debug-iphonesimulator/KeychainAccess/KeychainAccess.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/shubham/Documents/untitled folder 2/Birds/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/unextended-module.modulemap",
+    }]
+  }]
+}

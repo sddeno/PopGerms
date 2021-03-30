@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "25a660605a388c7dce1480bbe56252d0"
+build_time: [1617106729, 944347000]
+inputs:
+  "/Users/shubham/Documents/untitled folder 2/Birds/Pods/KeychainAccess/Lib/KeychainAccess/Keychain.swift": [1587230938, 0]

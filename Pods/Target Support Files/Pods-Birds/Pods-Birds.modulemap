@@ -1,0 +1,6 @@
+framework module Pods_Birds {
+  umbrella header "Pods-Birds-umbrella.h"
+
+  export *
+  module * { export * }
+}
